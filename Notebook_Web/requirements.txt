@@ -1,0 +1,10 @@
+mercury
+pandas==1.4.1
+numpy
+matplotlib
+folium
+pyproj
+plotly
+networkx==3.1
+
+
