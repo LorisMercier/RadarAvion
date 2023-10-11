@@ -1,4 +1,4 @@
-# LifRadarAvion
+# LifRadarAvion ✈️
 ***
 Bienvenue au sein de notre projet LifRadarAvion réalisé en 2022.  
 
@@ -33,6 +33,8 @@ Découvrer notre notebook en ligne en suivant le lien ci-dessous :
 
 Ce site est créé à partir du Framework Mercury.   
 Les notebooks sont disponible dans le dossier _./Notebook_Web.
+
+![Capture d'écran Site Web](./data/capture_mercury.png)
 
 ## Execution local via Mercury
 En cas de latence trop longue en ligne, vous pouvez executer notre application en local. Les temps de chargement seront alors bien plus rapide.
